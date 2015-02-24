@@ -1,0 +1,7 @@
+Estoy probando el Forking Workflow según la documentación del BITBUCKET
+
+Ahora ya se hacen FORKs del repositorio público del proyecto.
+
+Los colaboradores no vuelcan sus cambios directamente sobre el repositorio público, sino que los vuelcan en su repositorio del servidor creado con un FORK. Y luego hacen un PULL REQUEST para que el administrador del proyecto vea si lo incorpora o no desde su copia local al repositorio público.
+
+
